@@ -1,0 +1,121 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_CompilerCpp_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProjDirPath}/Static_Code/PDD"</Line>
+        <Line>"${ProjDirPath}/Static_Code/IO_Map"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProjDirPath}/Static_Code/PDD"</Line>
+        <Line>"${ProjDirPath}/Static_Code/IO_Map"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Static_Code/PDD/TPM_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082167" FileType="1048576" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082221" FileType="45637" />
+      <File Name="Generated_Code/ASerialLdd3.h" FileDate="2022-12-06, 11:58:05" FileAge="1670335085561" FileType="45637" CompNumb="16" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082134" FileType="1048576" />
+      <File Name="Documentation/doxygen/Accel_component.txt" FileDate="2022-12-06, 11:28:06" FileAge="1670333286194" FileType="45637" CompNumb="4" />
+      <File Name="Documentation/HoleDetector_SIGNALS.txt" FileDate="2022-12-06, 12:36:33" FileAge="1670337393246" FileType="3072" />
+      <File Name="Generated_Code/ASerialLdd3.c" FileDate="2022-12-06, 11:58:05" FileAge="1670335085557" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/ASerialLdd2.h" FileDate="2022-12-06, 11:53:02" FileAge="1670334782678" FileType="45637" CompNumb="14" />
+      <File Name="Documentation/doxygen/BitIoLdd3_component.txt" FileDate="2022-12-06, 12:13:15" FileAge="1670335995560" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/ASerialLdd2.c" FileDate="2022-12-06, 11:53:02" FileAge="1670334782675" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/ASerialLdd1.h" FileDate="2022-12-06, 11:37:45" FileAge="1670333865255" FileType="45637" CompNumb="12" />
+      <File Name="Static_Code/PDD/FTFA_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082125" FileType="1048576" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082110" FileType="1048576" />
+      <File Name="Generated_Code/BitIoLdd3.h" FileDate="2022-12-06, 12:13:15" FileAge="1670335995568" FileType="45637" CompNumb="26" />
+      <File Name="Static_Code/PDD/COP_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082112" FileType="1048576" />
+      <File Name="Documentation/doxygen/BitIoLdd1_component.txt" FileDate="2022-12-06, 12:13:15" FileAge="1670335995596" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/ASerialLdd1.c" FileDate="2022-12-06, 11:37:45" FileAge="1670333865252" FileType="45637" CompNumb="12" />
+      <File Name="ProjectInfo.xml" FileDate="2022-12-06, 12:36:33" FileAge="1670337393459" FileType="45637" />
+      <File Name="Generated_Code/BitIoLdd3.c" FileDate="2022-12-06, 12:13:15" FileAge="1670335995564" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/BitIoLdd2.h" FileDate="2022-12-06, 12:13:15" FileAge="1670335995587" FileType="45637" CompNumb="24" />
+      <File Name="Generated_Code/AS3.h" FileDate="2022-12-06, 11:58:05" FileAge="1670335085549" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/BitIoLdd2.c" FileDate="2022-12-06, 12:13:15" FileAge="1670335995582" FileType="45637" CompNumb="24" />
+      <File Name="Generated_Code/BitIoLdd1.h" FileDate="2022-12-06, 12:13:15" FileAge="1670335995604" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/AS3.c" FileDate="2022-12-06, 11:58:05" FileAge="1670335085545" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/AS2.h" FileDate="2022-12-06, 12:36:33" FileAge="1670337393209" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2022-12-06, 12:13:15" FileAge="1670335995600" FileType="45637" CompNumb="22" />
+      <File Name="Static_Code/PDD/TSI_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082170" FileType="1048576" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2022-12-06, 00:51:22" FileAge="1670295082044" FileType="16384" CompNumb="2" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2022-12-06, 00:51:22" FileAge="1670295082194" FileType="8" CompNumb="2" />
+      <File Name="Generated_Code/AS2.c" FileDate="2022-12-06, 12:36:33" FileAge="1670337393216" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2022-12-06, 12:15:05" FileAge="1670336105958" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/AS1.h" FileDate="2022-12-06, 11:37:45" FileAge="1670333865246" FileType="45637" CompNumb="11" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082152" FileType="1048576" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082123" FileType="1048576" />
+      <File Name="Generated_Code/AS1.c" FileDate="2022-12-06, 11:37:45" FileAge="1670333865242" FileType="45637" CompNumb="11" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082162" FileType="1048576" />
+      <File Name="Documentation/HoleDetector.txt" FileDate="2022-12-06, 12:36:33" FileAge="1670337393465" FileType="3072" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082159" FileType="1048576" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082108" FileType="1048576" />
+      <File Name="Documentation/doxygen/ASerialLdd1_component.txt" FileDate="2022-12-06, 11:37:45" FileAge="1670333865249" FileType="45637" CompNumb="12" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082115" FileType="1048576" />
+      <File Name="Documentation/HoleDetector_Settings.xml" FileDate="2022-12-06, 12:36:33" FileAge="1670337393326" FileType="3072" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2022-12-06, 00:51:22" FileAge="1670295082201" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082223" FileType="45637" />
+      <File Name="Documentation/doxygen/ExtIntLdd1_component.txt" FileDate="2022-12-06, 12:15:05" FileAge="1670336105865" FileType="45637" CompNumb="28" />
+      <File Name="Documentation/doxygen/ASerialLdd3_component.txt" FileDate="2022-12-06, 11:58:05" FileAge="1670335085553" FileType="45637" CompNumb="16" />
+      <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082176" FileType="1048576" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082119" FileType="1048576" />
+      <File Name="Documentation/doxygen/TimerIntLdd1_component.txt" FileDate="2022-12-06, 12:00:43" FileAge="1670335243135" FileType="45637" CompNumb="18" />
+      <File Name="Static_Code/IO_Map/MKL25Z4.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082099" FileType="1048576" />
+      <File Name="Generated_Code/BaseTimer.h" FileDate="2022-12-06, 12:00:43" FileAge="1670335243132" FileType="45637" CompNumb="17" />
+      <File Name="Sources/main.c" FileDate="2022-12-06, 12:34:47" FileAge="1670337287220" FileType="128" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082104" FileType="1048576" />
+      <File Name="Generated_Code/BaseTimer.c" FileDate="2022-12-06, 12:00:43" FileAge="1670335243127" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/Accel_INT.h" FileDate="2022-12-06, 12:15:05" FileAge="1670336105861" FileType="45637" CompNumb="27" />
+      <File Name="Documentation/doxygen/HoleDetector_project.txt" FileDate="2022-12-06, 12:15:05" FileAge="1670336105938" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Accel_INT.c" FileDate="2022-12-06, 12:15:05" FileAge="1670336105858" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/LedRSSI.h" FileDate="2022-12-06, 12:13:15" FileAge="1670335995577" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/TimerIntLdd1.h" FileDate="2022-12-06, 12:00:43" FileAge="1670335243144" FileType="45637" CompNumb="18" />
+      <File Name="Documentation/doxygen/BitIoLdd2_component.txt" FileDate="2022-12-06, 12:13:15" FileAge="1670335995580" FileType="45637" CompNumb="24" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082128" FileType="1048576" />
+      <File Name="Generated_Code/LedRSSI.c" FileDate="2022-12-06, 12:13:15" FileAge="1670335995572" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/TimerIntLdd1.c" FileDate="2022-12-06, 12:00:43" FileAge="1670335243141" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/LedGSM.h" FileDate="2022-12-06, 12:13:15" FileAge="1670335995593" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082212" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/LedGSM.c" FileDate="2022-12-06, 12:13:15" FileAge="1670335995590" FileType="45637" CompNumb="21" />
+      <File Name="Sources/Events.h" FileDate="2022-12-06, 12:15:05" FileAge="1670336105964" FileType="131328" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2022-12-06, 12:15:05" FileAge="1670336105933" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082149" FileType="1048576" />
+      <File Name="Sources/Events.c" FileDate="2022-12-06, 12:30:49" FileAge="1670337049986" FileType="131328" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082142" FileType="1048576" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2022-12-06, 12:15:05" FileAge="1670336105955" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/ExtIntLdd1.h" FileDate="2022-12-06, 12:15:05" FileAge="1670336105873" FileType="45637" CompNumb="28" />
+      <File Name="Generated_Code/TU1.h" FileDate="2022-12-06, 12:00:43" FileAge="1670335243161" FileType="45637" CompNumb="19" />
+      <File Name="Static_Code/PDD/MCG_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082138" FileType="1048576" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2022-12-06, 12:15:05" FileAge="1670336105951" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/ExtIntLdd1.c" FileDate="2022-12-06, 12:15:05" FileAge="1670336105869" FileType="45637" CompNumb="28" />
+      <File Name="Generated_Code/TU1.c" FileDate="2022-12-06, 12:00:43" FileAge="1670335243151" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/LedAccel.h" FileDate="2022-12-06, 12:13:15" FileAge="1670335995556" FileType="45637" CompNumb="25" />
+      <File Name="Static_Code/PDD/UART0_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082173" FileType="1048576" />
+      <File Name="Generated_Code/LedAccel.c" FileDate="2022-12-06, 12:13:15" FileAge="1670335995552" FileType="45637" CompNumb="25" />
+      <File Name="Documentation/doxygen/TU1_component.txt" FileDate="2022-12-06, 12:00:43" FileAge="1670335243147" FileType="45637" CompNumb="19" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082131" FileType="1048576" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082164" FileType="1048576" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082155" FileType="1048576" />
+      <File Name="Static_Code/PDD/USB_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082179" FileType="1048576" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2022-12-06, 12:15:05" FileAge="1670336105912" FileType="45637" />
+      <File Name="Documentation/doxygen/RoutingReport_component.txt" FileDate="2022-12-06, 00:51:22" FileAge="1670295082203" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Accel.h" FileDate="2022-12-06, 01:05:49" FileAge="1670295949820" FileType="45637" CompNumb="4" />
+      <File Name="Documentation/doxygen/ASerialLdd2_component.txt" FileDate="2022-12-06, 11:53:02" FileAge="1670334782671" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/Accel.c" FileDate="2022-12-06, 01:05:49" FileAge="1670295949818" FileType="45637" CompNumb="4" />
+      <File Name="Static_Code/PDD/OSC_PDD.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082146" FileType="1048576" />
+      <File Name="Project_Settings/Startup_Code/startup.c" FileDate="2022-12-06, 00:51:21" FileAge="1670295081977" FileType="16384" CompNumb="2" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2022-12-06, 00:51:22" FileAge="1670295082218" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>12</CodeGenReference>
+</CodeGenerationInfo>
